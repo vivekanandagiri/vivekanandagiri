@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vivekanandagiri
-- 👀 I’m interested in
-- 🌱 I’m currently learning Data Science and Artificial intelligence
+- 👀 I’m interested in Software development Field
+- 🌱 I’m Completed MCA
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me reach me on instagram @im_vivekananda
 
