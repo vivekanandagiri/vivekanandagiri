@@ -1,105 +1,93 @@
-# Vivek | Software Engineer
+# Vivekananda Giri | Software Engineer (Fresher)
 
-📍 Backend & Microservices Specialist | Java & Spring Boot
+📍 Java & Spring Boot Developer | Aspiring Backend Engineer
 
 ---
 
 ## 👨‍💼 Professional Summary
 
-Experienced Software Engineer specializing in designing, developing, and maintaining scalable enterprise applications. Strong expertise in Java, Spring Boot, and Microservices architecture with a focus on performance, security, and reliability.
+Motivated and detail-oriented Software Engineering graduate with strong fundamentals in Java and Spring Boot. Passionate about developing scalable, efficient, and maintainable applications.
 
-Committed to delivering high-quality, business-driven solutions in agile environments.
+Actively seeking opportunities to contribute to real-world projects while continuously enhancing technical and professional skills.
 
 ---
 
 ## 🧠 Core Competencies
 
-- Enterprise Application Development  
-- Microservices Architecture  
-- RESTful API Design  
-- System Integration  
-- Database Design & Optimization  
-- Cloud-Native Applications  
-- Code Review & Best Practices  
+- Java Application Development  
+- Spring Boot & REST APIs  
+- Microservices Fundamentals  
+- Object-Oriented Programming  
+- Database Management  
+- Problem Solving  
+- Clean Code Practices  
 
 ---
 
 ## 🛠 Technical Skills
 
 ### Programming Languages
-- Java, SQL, JavaScript
+- Java, SQL, Basic JavaScript
 
-### Frameworks & Libraries
-- Spring Boot, Spring Cloud, Hibernate, JPA
+### Frameworks & Tools
+- Spring Boot, Hibernate, JPA, Maven
 
 ### Databases
-- MySQL, PostgreSQL, MongoDB
+- MySQL, PostgreSQL
 
-### DevOps & Tools
-- Git, Docker, Maven, Jenkins, IntelliJ IDEA
-
-### Architecture
-- Monolithic → Microservices Migration  
-- API Gateway  
-- Service Discovery  
-- Distributed Systems
+### Development Tools
+- Git, GitHub, IntelliJ IDEA, Eclipse
 
 ---
 
-## 📁 Key Projects
+## 📁 Academic & Personal Projects
 
-### 🔹 Enterprise Microservices Platform
-- Designed and developed scalable microservices for financial and business domains
-- Implemented API Gateway, Service Registry, and centralized configuration
-- Improved system reliability and response time
+### 🔹 Spring Boot Microservices Suite
+- Developed multiple microservices including Currency Converter and API Gateway
+- Implemented REST APIs with proper exception handling
+- Used Swagger for API documentation
 
-### 🔹 RESTful API Suite
-- Built secure, documented APIs using Swagger
-- Integrated validation, exception handling, and logging
-- Enabled seamless third-party integrations
+### 🔹 REST API Mini Projects
+- Built CRUD-based applications using Spring Boot
+- Integrated validation and error handling
+- Practiced layered architecture
 
-### 🔹 Testing & Quality Assurance
-- Implemented unit and integration testing using JUnit
-- Improved code coverage and deployment stability
-
----
-
-## 📈 GitHub Performance
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=graywhite" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=graywhite" />
-</p>
+### 🔹 MVC Web Application
+- Created session-based web applications
+- Implemented authentication and authorization basics
 
 ---
 
-## 📚 Professional Development
+## 📚 Currently Learning
 
-- Advanced Microservices Architecture
-- Cloud Computing (AWS/Azure)
-- Distributed System Design
-- DevOps Automation
-
----
-
-## 🤝 Professional Network
-
-📧 Email: your.email@company.com  
-💼 LinkedIn: https://linkedin.com/in/yourprofile  
-🌐 Portfolio: https://yourportfolio.com  
+- Microservices Advanced Concepts  
+- Cloud Fundamentals (AWS)  
+- System Design Basics  
+- Data Structures & Algorithms  
 
 ---
 
-## 🏆 Values
+## 🎯 Career Objective
 
-- Quality First  
-- Continuous Improvement  
-- Ownership & Accountability  
-- Collaboration & Transparency  
+To begin my professional journey as a Software Engineer where I can apply my technical knowledge, learn from industry experts, and contribute to building high-quality software solutions.
 
 ---
 
-> “Delivering reliable software through discipline, design, and dedication.”
+## 🤝 Contact Information
+
+📧 Email: viveknangiri@gmail.com 
+💼 LinkedIn: https://linkedin.com/in/vivekanandagiri 
+📍 Location: India  
+
+---
+
+## 💬 Personal Values
+
+- Continuous Learning  
+- Integrity & Responsibility  
+- Team Collaboration  
+- Growth Mindset  
+
+---
+
+> “Learning today. Building tomorrow.”
