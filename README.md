@@ -22,41 +22,36 @@ Actively seeking opportunities to contribute to real-world projects while contin
 - Problem Solving  
 - Clean Code Practices  
 
----
-
-## 🛠 Technical Skills
-
-### Programming Languages
-- Java, SQL, Basic JavaScript
-
-### Frameworks & Tools
-- Spring Boot, Hibernate, JPA, Maven
-
-### Databases
-- MySQL, PostgreSQL
-
-### Development Tools
-- Git, GitHub, IntelliJ IDEA, Eclipse
 
 ---
 
-## 📁 Academic & Personal Projects
-
-### 🔹 Spring Boot Microservices Suite
-- Developed multiple microservices including Currency Converter and API Gateway
-- Implemented REST APIs with proper exception handling
-- Used Swagger for API documentation
-
-### 🔹 REST API Mini Projects
-- Built CRUD-based applications using Spring Boot
-- Integrated validation and error handling
-- Practiced layered architecture
-
-### 🔹 MVC Web Application
-- Created session-based web applications
-- Implemented authentication and authorization basics
+## 🛠️ Languages, Frameworks and Tools
+<p align="left">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="50" height="50"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="spring boot" width="50" height="50"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="bash" width="40" height="40"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="kubernetes" width="40" height="40"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" alt="jenkins" width="40" height="40"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/> 
+</p>  
 
 ---
+
+## 👀 Profile Visitors
+![Profile Views](https://komarev.com/ghpvc/?username=vivekanandagiri&label=PROFILE+VIEWS&color=blue&style=flat)  
+---
+## 🌐 Connect with Me
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vivekanandagiri)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](your-linkedin-url)  
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/im_vivekananda)  
+
+
 
 ## 📚 Currently Learning
 
@@ -73,13 +68,6 @@ To begin my professional journey as a Software Engineer where I can apply my tec
 
 ---
 
-## 🤝 Contact Information
-
-📧 Email: viveknangiri@gmail.com 
-💼 LinkedIn: https://linkedin.com/in/vivekanandagiri 
-📍 Location: India  
-
----
 
 ## 💬 Personal Values
 
@@ -87,7 +75,6 @@ To begin my professional journey as a Software Engineer where I can apply my tec
 - Integrity & Responsibility  
 - Team Collaboration  
 - Growth Mindset  
-
 ---
 
 > “Learning today. Building tomorrow.”
